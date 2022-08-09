@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="sitio web en construccion" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Sitio web en construccion <code>pages/index.js</code>
         </p>
       </main>
 
